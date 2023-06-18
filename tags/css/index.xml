@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>CSS on tzu&#39;s blog</title>
+    <link>https://ytw81.github.io/tags/css/</link>
+    <description>Recent content in CSS on tzu&#39;s blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <lastBuildDate>Sun, 18 Jun 2023 10:07:47 +0800</lastBuildDate><atom:link href="https://ytw81.github.io/tags/css/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>yingtzu in nara</title>
+      <link>https://ytw81.github.io/blog/po3/</link>
+      <pubDate>Sun, 18 Jun 2023 10:07:47 +0800</pubDate>
+      
+      <guid>https://ytw81.github.io/blog/po3/</guid>
+      <description>使用html與css編寫自己履歷 codepen
+&amp;lt;div class=&amp;#34;resume&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;line1&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;left&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;name&amp;#34;&amp;gt;1996.08.01&amp;lt;br&amp;gt;YING-TZU&amp;lt;/div&amp;gt; &amp;lt;div class=&amp;#34;introduce&amp;#34;&amp;gt; Work on XX company,&amp;lt;br&amp;gt;assist customer to use our system,provide consultancy service.</description>
+    </item>
+    
+  </channel>
+</rss>

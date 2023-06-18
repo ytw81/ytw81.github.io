@@ -9,8 +9,18 @@
     <lastBuildDate>Wed, 15 Jun 2022 13:49:23 +0800</lastBuildDate><atom:link href="https://ytw81.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>yingtzu in nara</title>
+      <link>https://ytw81.github.io/blog/po3/</link>
+      <pubDate>Sun, 18 Jun 2023 10:07:47 +0800</pubDate>
+      
+      <guid>https://ytw81.github.io/blog/po3/</guid>
+      <description>使用html與css編寫自己履歷 codepen
+&amp;lt;div class=&amp;#34;resume&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;line1&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;left&amp;#34;&amp;gt; &amp;lt;div class=&amp;#34;name&amp;#34;&amp;gt;1996.08.01&amp;lt;br&amp;gt;YING-TZU&amp;lt;/div&amp;gt; &amp;lt;div class=&amp;#34;introduce&amp;#34;&amp;gt; Work on XX company,&amp;lt;br&amp;gt;assist customer to use our system,provide consultancy service.</description>
+    </item>
+    
+    <item>
+      <title>yingtzu in nara</title>
       <link>https://ytw81.github.io/blog/po2/</link>
-      <pubDate>Tue, 21 Feb 2023 10:07:47 +8600</pubDate>
+      <pubDate>Tue, 21 Feb 2023 10:07:47 +0800</pubDate>
       
       <guid>https://ytw81.github.io/blog/po2/</guid>
       <description>日本自由行 Day2奈良 一走出奈良車站，天空就開始飄雪，白雪皚皚真的好美～
@@ -20,7 +30,7 @@
     <item>
       <title>yingtzu in osaka</title>
       <link>https://ytw81.github.io/blog/po1/</link>
-      <pubDate>Mon, 20 Feb 2023 10:07:47 +8600</pubDate>
+      <pubDate>Mon, 20 Feb 2023 10:07:47 +0800</pubDate>
       
       <guid>https://ytw81.github.io/blog/po1/</guid>
       <description>日本自由行 Day1大阪 第一次來日本🇯🇵
